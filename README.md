@@ -1,3 +1,3 @@
 # hello-world
-Apa Kabar Kalian
+Apa Kabar Kalian,
 Kita belajar bersama saling berbagi pengalaman
