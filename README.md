@@ -1,2 +1,3 @@
 # hello-world
-Kita belajar bersama
+Apa Kabar Kalian,
+Kita belajar bersama saling berbagi pengalaman
